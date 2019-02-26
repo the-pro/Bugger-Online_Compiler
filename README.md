@@ -1,14 +1,13 @@
 # Bugger-Online_Compiler
-Online compiler for C,C++,Python,Java
+Online compiler for C,C++,Python,Java.
 ##About
 This is a web application in which users can log in and compile their code.
 It has compilers for:-
 -C
 -C++
 -Java
--Python
+-Python.
 ##Install
-These steps are specific to Linux:-
 ###Prerequisites
 -Gcc
 -G++
@@ -17,7 +16,7 @@ These steps are specific to Linux:-
 -Java
 -Apache2
 -Mysql
--Php
+-Php.
 ###Procedure
 ####Install the compilers:-
 To get the above packages run:-
